@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253405520733",
+    "project_id": "kotlininstaclon-f076b",
+    "storage_bucket": "kotlininstaclon-f076b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253405520733:android:1c2f8b9dfbd0a1cdd27eb4",
+        "android_client_info": {
+          "package_name": "com.umitytsr.firebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253405520733-qg7985mdn2cij547raj0upvu73u5p0iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqhZyaLvM2gUxYY3-W_lk8D2dYCYljTLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253405520733-qg7985mdn2cij547raj0upvu73u5p0iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
